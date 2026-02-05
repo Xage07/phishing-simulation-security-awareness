@@ -1,0 +1,23 @@
+campaign_id,email,time,message,details
+3,,2026-01-11T14:08:38.969039544Z,Campaign Created,
+3,abel@techcrush.com,2026-01-11T14:08:39.015238537Z,Email Sent,
+3,ajewole@techcrush.com,2026-01-11T14:08:39.08180261Z,Email Sent,
+3,alameen@techcrush.com,2026-01-11T14:08:39.202215023Z,Email Sent,
+3,emmanuel@techcrush.com,2026-01-11T14:08:39.360576453Z,Email Sent,
+3,ene@techcrush.com,2026-01-11T14:08:39.566832862Z,Email Sent,
+3,idris@techcrush.com,2026-01-11T14:08:39.651170382Z,Email Sent,
+3,ikechukwu@techcrush.com,2026-01-11T14:08:39.738454218Z,Email Sent,
+3,oluwadunmininu@techcrush.com,2026-01-11T14:08:39.82586994Z,Email Sent,
+3,oluwatosin@techcrush.com,2026-01-11T14:08:39.89272598Z,Email Sent,
+3,zachariah@techcrush.com,2026-01-11T14:08:39.955769655Z,Email Sent,
+3,alameen@techcrush.com,2026-01-11T14:13:46.806048322Z,Clicked Link,"{""payload"":{""rid"":[""wHwzOQj""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0""}}"
+3,alameen@techcrush.com,2026-01-11T14:14:47.425090976Z,Submitted Data,"{""payload"":{""email"":[""testuser@techcrush.local""],""password"":[""xage""],""rid"":[""wHwzOQj""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0""}}"
+3,oluwadunmininu@techcrush.com,2026-01-11T14:15:53.192776024Z,Clicked Link,"{""payload"":{""rid"":[""ysxOPwV""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0""}}"
+3,oluwadunmininu@techcrush.com,2026-01-11T14:16:03.626350149Z,Submitted Data,"{""payload"":{""email"":[""testuser@techcrush.local""],""password"":[""dumsie""],""rid"":[""ysxOPwV""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0""}}"
+3,emmanuel@techcrush.com,2026-01-11T14:16:25.712444059Z,Clicked Link,"{""payload"":{""rid"":[""UvhXzI1""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0""}}"
+3,emmanuel@techcrush.com,2026-01-11T14:16:34.420137901Z,Submitted Data,"{""payload"":{""email"":[""testuser@techcrush.local""],""password"":[""emma""],""rid"":[""UvhXzI1""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0""}}"
+3,abel@techcrush.com,2026-01-11T14:16:49.981120935Z,Clicked Link,"{""payload"":{""rid"":[""wNSaprm""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0""}}"
+3,abel@techcrush.com,2026-01-11T14:16:57.590231049Z,Submitted Data,"{""payload"":{""email"":[""testuser@techcrush.local""],""password"":[""ab""],""rid"":[""wNSaprm""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0""}}"
+3,ajewole@techcrush.com,2026-01-11T14:17:58.379635441Z,Clicked Link,"{""payload"":{""rid"":[""bMUACD3""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0""}}"
+3,oluwatosin@techcrush.com,2026-01-11T14:18:11.412624353Z,Clicked Link,"{""payload"":{""rid"":[""MlRq0nY""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0""}}"
+3,ene@techcrush.com,2026-01-11T14:18:24.295744119Z,Clicked Link,"{""payload"":{""rid"":[""791CoeW""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0""}}"
